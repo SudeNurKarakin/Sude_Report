@@ -12,3 +12,6 @@ The analysis follows international standards including **ISO/IEC 27001**, **NIST
 
 © 2025 — Sude Nur Karakin  
 *Confidential — For evaluation and training purposes only.*
+---
+
+📎 [View Full Report (PDF)](https://github.com/SudeNurKarakin/Sude_Report/blob/main/Sude_Nur_Karakin_Report.pdf)
